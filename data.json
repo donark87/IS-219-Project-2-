@@ -1,0 +1,26 @@
+
+[{
+  "fldName": "Tokyo",
+  "fldLat": 35.6850,
+  "fldLong": 139.7514,
+  "fldCountry": "Japan",
+  "fldAbbreviation": "JPN",
+  "fldCapitalStatus": "primary",
+  "fldPopulation": 35676000
+}, {
+  "fldName": "New York",
+  "fldLat": 40.6943,
+  "fldLong": -73.9249,
+  "fldCountry": "United States",
+  "fldAbbreviation": "USA",
+  "fldCapitalStatus": "NA",
+  "fldPopulation": 19354922
+}, {
+  "fldName": "Mexico City",
+  "fldLat": 19.4424,
+  "fldLong": -99.1310,
+  "fldCountry": "Mexico",
+  "fldAbbreviation": "MEX",
+  "fldCapitalStatus": "primary",
+  "fldPopulation": 19028000
+}]
